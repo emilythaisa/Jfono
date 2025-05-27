@@ -8,7 +8,12 @@ public class Clinica {
 
     public static void main(String[] args) {
 
-        Clinica
+        Clinica cl = new Clinica();
+        cl.nome = "Fonomais";
+        cl.cnpj = "1111.001-05";
+        cl.endereço= "Shopping pier 21 loja 01, andar 04";
+        
+
         
 
 
