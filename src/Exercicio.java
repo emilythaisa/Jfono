@@ -7,6 +7,7 @@ public class Exercicio {
     String descricao;
     String som;
     int tempoMin;
+    String exemplo;
     
     
 }

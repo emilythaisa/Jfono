@@ -11,7 +11,11 @@ public class App {
         ex.som = "sons/kiko.mp3";
 
         Exercicio ex1 = new Exercicio ();
-        ex1.nome = "abelha";
-        ex.descricao = "relaxamento";
+        ex1.nome = "Vibrar lábios";
+        ex.descricao = "Fazer os lábios vibrarem, como um som de uma moto";
+        ex1.tempoMin = 2;
+        ex1.exemplo = "Br (som de motor)";
+
+        
     } 
 }
