@@ -13,8 +13,16 @@ public class App {
         Exercicio ex1 = new Exercicio ();
         ex1.nome = "Vibrar lábios";
         ex.descricao = "Fazer os lábios vibrarem, como um som de uma moto";
-        ex1.tempoMin = 2;
-        ex1.exemplo = "Br (som de motor)";
+        ex1.tempoMin2 = 2;
+     
+
+
+        //sabendo que os contrutores e getters e setters estão pronots
+        //crie mais dois objetos exercicio - contrutor e get
+        //crie mais dois objetos clinica - construtor e get
+        //crie mais dois objetos paciente- construtor e get
+        //crie mais dois objetos profissional - construtor e get
+
 
         
     } 
